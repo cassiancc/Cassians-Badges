@@ -5,7 +5,7 @@ Custom badges, at the moment just for Minecraft modding. These are based on [Dev
 ![Available for NeoForge](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/NeoForge.svg)
 
 ```html
-<img alt="Available for NeoForge" height="56" src="https://raw.githubusercontent.comcassiancc/Cassians-Badges/refs/heads/main/cozy/NeoForge.svg">
+<img alt="Available for NeoForge" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/NeoForge.svg">
 ```
 
 ## Forgified Fabric API
