@@ -21,3 +21,10 @@ Custom badges, at the moment just for Minecraft modding. These are based on [Dev
 ```html
 <img alt="Read more on the Modded Minecraft Wiki" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Modded-Minecraft-Wiki.svg">
 ```
+
+## Mod Garden: Nature
+![Made for Mod Garden: Nature](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Nature.svg)
+
+```html
+<img alt="Read more on the Modded Minecraft Wiki" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Nature.svg">
+```
