@@ -15,6 +15,13 @@ Custom badges, at the moment just for Minecraft modding. These are based on [Dev
 <img alt="Requires Forgified Fabric API" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/ForgifiedFabric.svg">
 ```
 
+## Sinytra Connector
+![Compatible with Sinytra Connector](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Connector.svg)
+
+```html
+<img alt="Compatible with Sinytra Connector" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Connector.svg">
+```
+
 ## Modded Minecraft Wiki
 ![Read more on the Modded Minecraft Wiki](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Modded-Minecraft-Wiki.svg)
 
