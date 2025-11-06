@@ -44,8 +44,8 @@ Custom badges, at the moment just for Minecraft modding. These are based on [Dev
 ```
 
 ## Also Try Raspberry Flavoured
-![Also Try Raspberry Flavoured](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Also-Try-Raspberry-Flavoured.svg)
+![Also Try Raspberry Flavoured](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/b115ffa57615f0d098ea8814f2ec79a3d1abd264/cozy/Also-Try-Raspberry-Flavoured.svg)
 
 ```html
-<img alt="Also Try Raspberry Flavoured" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/Also-Try-Raspberry-Flavoured.svg">
+<img alt="Also Try Raspberry Flavoured" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/b115ffa57615f0d098ea8814f2ec79a3d1abd264/cozy/Also-Try-Raspberry-Flavoured.svg">
 ```
