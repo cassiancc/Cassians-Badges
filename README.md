@@ -43,7 +43,7 @@ Custom badges, at the moment just for Minecraft modding. These are based on [Dev
 <img alt="Featured in ModFest: Toybox" height="56" src="https://raw.githubusercontent.com/cassiancc/Cassians-Badges/1891e2d730946c2848883e25aecd6881b427b706/cozy/Toybox.svg">
 ```
 
-## Mod Garden: Nature
+## ModFest 26
 ![Made for ModFest: 26](https://raw.githubusercontent.com/cassiancc/Cassians-Badges/refs/heads/main/cozy/ModFest-26.svg)
 
 ```html
